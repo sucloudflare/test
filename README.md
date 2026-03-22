@@ -15,6 +15,7 @@ python3 bugbounty.py manifestoapplucas.vercel.app
 python3 bugbounty.py target.com
 ```
 ### Click Jacking
+### Baixe o index.html
 
 <img src='m.jpeg' alt='aa'>
 ## Summary
