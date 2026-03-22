@@ -14,7 +14,9 @@ python3 bugbounty.py manifestoapplucas.vercel.app
 # ou qualquer outro alvo:
 python3 bugbounty.py target.com
 ```
+### Click Jacking
 
+<img src='m.jpeg' alt='aa'>
 ## Summary
 
 The target is missing three critical HTTP security response headers:
